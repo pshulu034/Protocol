@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ModbusSlaveSimulator")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+0d437c4e58ba36d3bb877f63278e2e745a0565af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+13ed399cdccc7bf2d2e8e14f595e49807ad05d23")]
 [assembly: System.Reflection.AssemblyProductAttribute("ModbusSlaveSimulator")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ModbusSlaveSimulator")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
