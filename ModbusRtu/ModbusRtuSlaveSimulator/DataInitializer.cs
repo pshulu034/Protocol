@@ -3,7 +3,7 @@ using NModbus;
 
 namespace ModbusRtuSlaveSimulator
 {
-    public static class SlaveDataInitializer
+    public static class DataInitializer
     {
         public static void Initialize(IModbusSlave slave)
         {

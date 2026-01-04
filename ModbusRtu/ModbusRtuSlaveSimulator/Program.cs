@@ -33,7 +33,7 @@ namespace ModbusRtuSlaveSimulator
                     IModbusSlave slave = factory.CreateSlave(slaveId);
                     
                     // 使用独立的初始化逻辑
-                    SlaveDataInitializer.Initialize(slave);
+                    DataInitializer.Initialize(slave);
                     
                     network.AddSlave(slave);
 
