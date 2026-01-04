@@ -1,0 +1,17 @@
+C:\Users\passenger\Desktop\repos\ModbusTcp\ModbusSlaveSimulator\obj\Debug\net10.0\ModbusSlaveSimulator.csproj.AssemblyReference.cache
+C:\Users\passenger\Desktop\repos\ModbusTcp\ModbusSlaveSimulator\obj\Debug\net10.0\ModbusSlaveSimulator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\passenger\Desktop\repos\ModbusTcp\ModbusSlaveSimulator\obj\Debug\net10.0\ModbusSlaveSimulator.AssemblyInfoInputs.cache
+C:\Users\passenger\Desktop\repos\ModbusTcp\ModbusSlaveSimulator\obj\Debug\net10.0\ModbusSlaveSimulator.AssemblyInfo.cs
+C:\Users\passenger\Desktop\repos\ModbusTcp\ModbusSlaveSimulator\obj\Debug\net10.0\ModbusSlaveSimulator.csproj.CoreCompileInputs.cache
+C:\Users\passenger\Desktop\repos\ModbusTcp\ModbusSlaveSimulator\bin\Debug\net10.0\ModbusSlaveSimulator.exe
+C:\Users\passenger\Desktop\repos\ModbusTcp\ModbusSlaveSimulator\bin\Debug\net10.0\ModbusSlaveSimulator.deps.json
+C:\Users\passenger\Desktop\repos\ModbusTcp\ModbusSlaveSimulator\bin\Debug\net10.0\ModbusSlaveSimulator.runtimeconfig.json
+C:\Users\passenger\Desktop\repos\ModbusTcp\ModbusSlaveSimulator\bin\Debug\net10.0\ModbusSlaveSimulator.dll
+C:\Users\passenger\Desktop\repos\ModbusTcp\ModbusSlaveSimulator\bin\Debug\net10.0\ModbusSlaveSimulator.pdb
+C:\Users\passenger\Desktop\repos\ModbusTcp\ModbusSlaveSimulator\bin\Debug\net10.0\NModbus.dll
+C:\Users\passenger\Desktop\repos\ModbusTcp\ModbusSlaveSimulator\obj\Debug\net10.0\ModbusSl.CCDE5F30.Up2Date
+C:\Users\passenger\Desktop\repos\ModbusTcp\ModbusSlaveSimulator\obj\Debug\net10.0\ModbusSlaveSimulator.dll
+C:\Users\passenger\Desktop\repos\ModbusTcp\ModbusSlaveSimulator\obj\Debug\net10.0\refint\ModbusSlaveSimulator.dll
+C:\Users\passenger\Desktop\repos\ModbusTcp\ModbusSlaveSimulator\obj\Debug\net10.0\ModbusSlaveSimulator.pdb
+C:\Users\passenger\Desktop\repos\ModbusTcp\ModbusSlaveSimulator\obj\Debug\net10.0\ModbusSlaveSimulator.genruntimeconfig.cache
+C:\Users\passenger\Desktop\repos\ModbusTcp\ModbusSlaveSimulator\obj\Debug\net10.0\ref\ModbusSlaveSimulator.dll
