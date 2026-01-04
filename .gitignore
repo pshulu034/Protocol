@@ -5,3 +5,4 @@
 bin/
 obj/
 /ModbusTcp/ModbusMasterApp/ModbusMasterApp.csproj
+/ModbusTcp/ModbusMasterApp/Program.cs

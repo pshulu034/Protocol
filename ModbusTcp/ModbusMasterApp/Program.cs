@@ -98,6 +98,7 @@ namespace ModbusMasterApp
 
             Console.WriteLine("Test completed. Exiting...");
             Console.ReadKey();
+
         }
     }
 }
