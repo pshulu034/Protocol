@@ -5,7 +5,7 @@ using NModbus.Serial;
 
 namespace ModbusRtuMasterLib
 {
-    public class ModbusRtuMaster : IDisposable
+    public partial class ModbusRtuMaster : IDisposable
     {
         private SerialPort? _serialPort;
         private IModbusMaster? _master;
