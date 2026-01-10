@@ -4,8 +4,10 @@ using HslCommunication.Profinet.Omron;
 
 namespace Fins.Core
 {
-    public class FinsUdpClient
+    public class FinsUdpClient : IDisposable
     {
+        private readonly OmronFinsUdp _fins;
+
         public event EventHandler<FinsFrameEventArgs>? FrameSent;
         public event EventHandler<FinsFrameEventArgs>? FrameReceived;
 
@@ -25,8 +27,6 @@ namespace Fins.Core
         public string IpAddress { get; }
         public int Port { get; }
 
-        private readonly OmronFinsUdp _fins;
-
         public FinsUdpClient(string ipAddress, int port = 9600)
         {
             IpAddress = ipAddress;
@@ -45,6 +45,11 @@ namespace Fins.Core
             return status == System.Net.NetworkInformation.IPStatus.Success
                 ? OperateResult.CreateSuccessResult()
                 : new OperateResult($"Ping: {status}");
+        }
+
+        public void Dispose()
+        {
+            _fins.Dispose();
         }
 
         public OperateResult<short> ReadInt16(string address)
@@ -119,5 +124,7 @@ namespace Fins.Core
             }
             return result;
         }
+    
+        
     }
 }
